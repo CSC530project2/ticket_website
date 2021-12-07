@@ -1,5 +1,5 @@
 # ticket_website
-MAKE SURE U READ THIS IN BLOB FORM
+MAKE SURE U READ THIS IN source BLOB FORM
 
 in my backlog testing doc the version don't match the version here.
 here a conversion. im so sorry.
